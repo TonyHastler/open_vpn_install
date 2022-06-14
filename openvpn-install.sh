@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# https://github.com/TonyHastler/openvpn-install
+# https://github.com/TonyHastler/open_vpn_install
 #
 # Copyright (c) 2013 Nyr. Released under the MIT License.
 
